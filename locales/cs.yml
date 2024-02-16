@@ -361,7 +361,7 @@ strings:
       Funkce pro zakázání jsou stále přístupné prostřednictvím funkce /connect. Pokud byste měli zájem vidět i tento zakázaný, dejte mi vědět v rámci podpory chatu.
   Filters:
     help_msg: |-
-      Filters are case insensitive; every time someone says your trigger words, Alita will reply something else! can be used to create your own commands, if desired.
+      Filters are case insensitive; every time someone says your trigger words, Elsandra will reply something else! can be used to create your own commands, if desired.
 
       Commands:
       - /filter <trigger> <reply>: Every time someone says trigger, the bot will reply with sentence. For multiple word filters, quote the trigger.
@@ -454,11 +454,11 @@ strings:
     About: |-
       @%s je jedním z nejrychlejších a nejvíce obsazených funkcí správce skupiny.
 
-      Alita ✨ je vyvíjena a aktivně udržována produktem @DivideProjects!
+   Elsandra je vyvíjena a aktivně udržována produktem @DivideProjects!
 
-      Alita byla online od roku 2020 a sloužila tisícům skupin se statisíci uživatelů!
+      Elsandra byla online od roku 2020 a sloužila tisícům skupin se statisíci uživatelů!
 
-      <b>Proč Alita:</b>
+      <b>Proč Elsandra:</b>
       -Jednoduché: Snadné použití a optimalizace s mnoha příkazy botů.
       -Zajímavý: Mnoho funkcí, které ostatní správa skupiny roboty nemají.
       -Rychle: Hádejte co? Není vyroben s použitím Pythonu, používáme <a href='https://go.dev/'>Go</a> jako náš hlavní programovací jazyk.
@@ -468,7 +468,7 @@ strings:
       Step-1: |-
         Vítejte v konfiguraci Ality
 
-        První věc, kterou je třeba udělat, je přidat Alitu ✨ do své skupiny! Chcete-li to provést, stiskněte tlačítko pod tlačítkem a vyberte skupinu, pak stiskněte tlačítko Hotovo, abyste pokračovali ve výukovém programu.
+        První věc, kterou je třeba udělat, je přidat Elsandra do své skupiny! Chcete-li to provést, stiskněte tlačítko pod tlačítkem a vyberte skupinu, pak stiskněte tlačítko Hotovo, abyste pokračovali ve výukovém programu.
       Step-2: |-
         Ok, well done!
 
