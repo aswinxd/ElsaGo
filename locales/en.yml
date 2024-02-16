@@ -496,7 +496,7 @@ strings:
     About: |-
       @%s  is one of the fastest and most feature-filled group managers.
 
-      Alita ✨ is developed and actively maintained by @DivideProjects!
+    Elsandra is developed and actively maintained by @DivideProjects!
 
       Alita has been online since 2020 and has served thousands of groups with hundreds of thousands of users!
 
@@ -510,7 +510,7 @@ strings:
       Step-1: |-
         Welcome to the Alita Configuration
 
-        The first thing to do is to add Alita ✨ to your group! For doing that, press the under button and select your group, then press Done to continue the tutorial.
+        The first thing to do is to add Elsandra to your group! For doing that, press the under button and select your group, then press Done to continue the tutorial.
       Step-2: |-
         Ok, well done!
 
@@ -536,7 +536,7 @@ strings:
       When you donate, all the fund goes towards my development which makes on fast and responsive.
       Your donation might also get me a new feature or two, which I wasn't able to get due to server limitations.
       All the funds would be put into my services such as database, storage, and hosting!
-      You can donate by contacting my owner here: @DivideProjectsBot
+      @XenonSupportChat
 
   Locks:
     help_msg: |-
@@ -559,8 +559,6 @@ strings:
       Easily change by using this module!
 
       Just type /lang and use inline keyboard to choose a language for yourself or your group.
-
-      You can help us bring bot to more languages by helping on [Crowdin](https://crowdin.com/project/alita_robot)
 
   Misc:
     help_msg: |-
