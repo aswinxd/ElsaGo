@@ -454,11 +454,11 @@ strings:
     About: |-
       @%s er en af de hurtigste og mest funktionsfyldte gruppebestyrere.
 
-      Alita ✨ er udviklet og vedligeholdt aktivt af @DivideProjects!
+      Elsandra er udviklet og vedligeholdt aktivt af @DivideProjects!
 
       Alita har været online siden 2020 og har aftjent tusindvis af grupper med hundredtusindvis af brugere!
 
-      <b>Hvorfor Alita:</b>
+      <b>Hvorfor Elsandra:</b>
       -Simple: Easy forbrug and compaitble with many bot commands.
       -Interessante: Mange funktioner, som andre gruppeadminiutionsbots ikke har.
       -Hurtig: gæt hvad? Det er ikke lavet ved hjælp af Python, vi bruger <a href='https://go.dev/'>Go</a> som vores kerneprogrammeringssprog.
@@ -468,7 +468,7 @@ strings:
       Step-1: |-
         Velkommen til Alita Configuration
 
-        Det første, der skal gøres, er at tilføje Alita ✨ til din gruppe! Tryk på knappen under knappen, og vælg din gruppe, og tryk derefter på Udført for at fortsætte med at fortsætte.
+        Det første, der skal gøres, er at tilføje Elsandra til din gruppe! Tryk på knappen under knappen, og vælg din gruppe, og tryk derefter på Udført for at fortsætte med at fortsætte.
       Step-2: |-
         Ok, well done!
 
@@ -494,7 +494,6 @@ strings:
       , når du donerer, går fonden i retning af min udvikling, som gør hurtigt og lydhør.
       Din donation vil måske også give mig en ny funktion eller to, som jeg ikke kunne få på grund af serverbegrænsninger.
       Hele fonden vil blive lagt i mine services, f.eks. database, storage og hosting!
-      Du kan donere ved at kontakte min ejer her: @DivideProjectsBot
   Locks:
     help_msg: |-
       *Admin only *:
@@ -515,8 +514,6 @@ strings:
       Easily change by using this module!
 
       Just type /lang and use inline tastatur to choose a language for yourself or your group.
-
-      Du kan hjælpe os med at bringe bot til flere sprog ved at hjælpe med [Crowdin](https: //crowdin.com/project/alita_robot)
   Misc:
     help_msg: |-
       × /info: Get your user info, can be used as reply or by passing a User Id or Username
